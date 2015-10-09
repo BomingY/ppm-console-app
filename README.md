@@ -36,9 +36,13 @@ Benchmark
 A benchmark of various popular compression tools follows to compare them with PPM. The less size of the compressed file the better. In all cases default options have been used.
 
 Original file: book.txt (included in the test-data folder), size 1 344 739 bytes.
+
 Compressed by ZIP (LZSS compression mod): size 490 883 bytes.
+
 Compressed by 7-Zip (LZSS compression mod): size 386 768 bytes.
+
 Compressed by BZ2 (Burrows-Wheeler's Transform): size 349 584 bytes.
+
 Compressed by **PPM**: size **323 934** bytes.
 
 Bibliography
