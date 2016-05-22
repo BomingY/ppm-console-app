@@ -7,7 +7,7 @@ A minimal implementation (console only) of the PPM data compression algorithm as
 "Data Compression Using Adaptive Coding and Partial String Matching" by John G. Cleary and Ian H. Witten
 (IEEE TRANSACTIONS ON COMMUNICATIONS)
 
-**The application is intended for academic and/or educational usage only.**
+**The code is intended for educational purposes only.**
 
 Compilation
 -----------
